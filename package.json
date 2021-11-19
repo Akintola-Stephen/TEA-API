@@ -4,6 +4,7 @@
   "description": "\"An API with a user interface for creating API with basic functionalities\"",
   "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
