@@ -1,0 +1,27 @@
+{
+  "name": "tea",
+  "version": "1.0.0",
+  "description": "\"An API with a user interface for creating API with basic functionalities\"",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\"https://github.com/Akintola-Stephen/TEA-API.git\""
+  },
+  "keywords": [
+    "API",
+    "NODE"
+  ],
+  "author": "Akintola Stephen",
+  "license": "ISC",
+  "dependencies": {
+    "compression": "^1.7.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "helmet": "^4.6.0",
+    "mongoose": "^6.0.13",
+    "multer": "^1.4.3"
+  }
+}
